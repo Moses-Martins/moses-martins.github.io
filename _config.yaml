@@ -1,0 +1,38 @@
+# Profile section
+profile:
+  first_name: Moses
+  last_name: Martins
+  picture: https://cdn.glitch.global/0ba71868-88ca-47b1-8405-17366f74157d/WhatsApp%20Image%202024-08-29%20at%2016.57.34.jpeg?v=1724947225442   # Hosted picture
+  # picture: static/img/rodo_2021.png  # Local picture
+  contact:
+    address_one: Lagos, Nigeria
+    address_two:
+    phone: +234 9081374422
+  email: mmoses061@gmail.com
+  description: |
+    I am an experienced Data Scientist with a mathematics background. 
+    
+    Results-driven and highly motivated, I possess a deep understanding of machine learning and deep learning theories, including convolutional neural networks for object classification and detection. 
+    
+    I am passionate about numbers and statistics and enjoy working with data, analyzing it, exploring hidden patterns, and building machine-learning models around them. 
+    
+    Enthusiastic about combining my strong technical skill set with domain knowledge to solve business and industrial problems and communicate effectively to stakeholders. 
+    
+    I also aim to bring the latest AI advancements into practical implementation.
+    
+
+
+# Social section
+social:
+  github: https://github.com/Moezeeez/
+  twitter: https://x.com/moezeez_/
+  linkedin: https://www.linkedin.com/in/moses-martins/
+  medium: https://medium.com/@moezeez
+
+
+
+
+
+
+
+
